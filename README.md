@@ -1,3 +1,3 @@
 
 ## Mapping
-[Deploy to Heroku 🗳](https://github.com/Ns-Bots/TG-RENAMER-BOT#deploy-to-heroku-)
+[Deploy to Heroku 🗳](https://github.com/Kiruthikvarma55/TG-RENAMER-BOT#deploy-to-heroku-)
