@@ -9,7 +9,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from pyrogram.emoji import *
 
 
-################## Help command ##################
+# Help command
 
 @RenamerNs.on_message(filters.command("help") & filters.private & filters.incoming)
 async def help(c, m, cb=False):
@@ -34,8 +34,7 @@ async def help(c, m, cb=False):
             quote=True
         )
 
-
-################## start commamd ##################
+# start commamd 
 
 @RenamerNs.on_message(filters.command("start") & filters.private & filters.incoming)
 async def start(c, m, cb=False):
